@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TAE_Kotlin_week_end_assesment_AsyncTask</string>
+    <string name="next">next</string>
+    <string name="data_display">THE DATA WILL BE DISPLAYED HERE</string>
 </resources>
